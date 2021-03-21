@@ -1,0 +1,20 @@
+[
+	{
+		"bike": 41,
+		"car": 86,
+		"train": 209,
+		"airplane": 583
+	},
+	{
+		"bike": 56,
+		"car": 167,
+		"train": 85,
+		"airplane": 775
+	},
+	{
+		"bike": 72,
+		"car": 72,
+		"train": 105,
+		"airplane": 528
+	}
+]
